@@ -1,2 +1,9 @@
-var zia = "Hello Eric, would you like to learn some Python today?"
-console.log(zia);
+<!DOCTYPE HTML>
+<html>
+  <title>Javascript Site</title>
+<body>
+  <script>
+    alert( 'Hello Metaverse !' );
+  </script>
+</body>
+</html>
